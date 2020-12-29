@@ -1,0 +1,90 @@
+const users = [
+    {
+      firstname: 'Harnek',
+      lastname: 'Sandhar',
+      dob: '22/05/1974',
+      email: 'harnek@sandhar.com',
+      password: '',
+      watchlists: null
+    },
+    {
+      firstname: 'Doctor',
+      lastname: 'Crumpet',
+      dob: '22/05/1964',
+      email: 'doc@crumpet.com',
+      password: '',
+      watchlists: null
+    },
+  ];
+  
+  const stocks = [
+    {
+      longname: 'Alphabet',
+      symbol: 'GOOGL',
+      sector: 'technology',
+      bid: 0,
+      ask: 0,
+    },
+    {
+      longname: 'Volkwagen',
+      symbol: 'VOW',
+      sector: 'automotive',
+      bid: 0,
+      ask: 0,
+    },
+    {
+      longname: 'Tesla',
+      symbol: 'TSLA',
+      sector: 'automotive',
+      bid: 0,
+      ask: 0,
+    },
+    {
+      longname: 'Pfizer',
+      symbol: 'PFE',
+      sector: 'pharma',
+      bid: 0,
+      ask: 0,
+    },
+    {
+      longname: 'GlaxoSmithKline',
+      symbol: 'GSK',
+      sector: 'pharma',
+      bid: 0,
+      ask: 0,
+    },
+    {
+      longname: 'Lloyds',
+      symbol: 'LLOY',
+      sector: 'financial',
+      bid: 0,
+      ask: 0,
+    },
+  ];
+  
+  const watchlists = [
+    {
+      name: 'Tech Stock Watch',
+      sector: 'technology',
+      stocks: [1],
+      user: null
+    },
+    {
+      name: 'Auto Stocks Watch',
+      sector: 'automotive',
+      stocks: [2, 3],
+      user: null
+    },
+    {
+      name: 'Pharmaceutical Stock Watch',
+      sector: 'pharma',
+      stocks: [4, 5],
+      user: null
+    },
+    {
+      name: 'Financials Stock Watch',
+      sector: 'financial',
+      stocks: [6],
+      user: null
+    },
+  ];

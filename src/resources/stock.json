@@ -1,0 +1,44 @@
+[
+  {
+    "longname": "Alphabet",
+    "symbol": "GOOGL",
+    "sector": "technology",
+    "bid": 0,
+    "ask": 0
+  },
+  {
+    "longname": "Volkwagen",
+    "symbol": "VOW",
+    "sector": "automotive",
+    "bid": 0,
+    "ask": 0
+  },
+  {
+    "longname": "Tesla",
+    "symbol": "TSLA",
+    "sector": "automotive",
+    "bid": 0,
+    "ask": 0
+  },
+  {
+    "longname": "Pfizer",
+    "symbol": "PFE",
+    "sector": "pharma",
+    "bid": 0,
+    "ask": 0
+  },
+  {
+    "longname": "GlaxoSmithKline",
+    "symbol": "GSK",
+    "sector": "pharma",
+    "bid": 0,
+    "ask": 0
+  },
+  {
+    "longname": "Lloyds",
+    "symbol": "LLOY",
+    "sector": "financial",
+    "bid": 0,
+    "ask": 0
+  }
+]
