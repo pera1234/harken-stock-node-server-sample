@@ -1,5 +1,5 @@
 {
-  "name": "harken-stock-node-server",
+  "name": "harken-stock-node-server-sample",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
@@ -41,12 +41,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pera1234/harken-stock-node-server.git"
+    "url": "git+https://github.com/pera1234/harken-stock-node-server-sample.git"
   },
   "author": "Harnek Sandhar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pera1234/harken-stock-node-server/issues"
+    "url": "https://github.com/pera1234/harken-stock-node-server-sample/issues"
   },
-  "homepage": "https://github.com/pera1234/harken-stock-node-server#readme"
+  "homepage": "https://github.com/pera1234/harken-stock-node-server-sample#readme"
 }
