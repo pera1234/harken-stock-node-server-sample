@@ -2,7 +2,7 @@ import { IStock, Stock } from '../models/stock';
 import { BaseRepository } from './base';
 
 export class StockRepository extends BaseRepository<IStock> {
-  
+
   async getStockBySymbol(symbol: string):  Promise<IStock | null> {
     return await Stock.findOne({ symbol });
   }
